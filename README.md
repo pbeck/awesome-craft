@@ -24,14 +24,17 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Templating Reference](https://craftcms.com/docs/templating/global-variables) - Templating Reference.
 * [Plugin Development](https://craftcms.com/docs/plugins/introduction) - Plugin Development.
 * [Class Reference](https://craftcms.com/classreference) - Class Reference.
+* [Dash for macOS](https://kapeli.com/dash) - Offline access to all Craft CMS docs.
 
 ## SEO
 
 * [Retour](https://github.com/nystudio107/retour) - Redirect legacy URLs.
+* [SEOmatic](https://github.com/nystudio107/seomatic) - Turnkey SEO implementation for Craft CMS.
 * [SEO](https://github.com/ethercreative/seo) - Search engine optimization utilities for Craft CMS.
 
 ## Field Types
 
+* [Neo](https://github.com/benjamminf/craft-neo) - A Matrix-like field type for power users.
 * [Super Table](https://github.com/engram-design/SuperTable) - Tables field type.
 * [Hue](https://github.com/TopShelfCraft/Hue) - A slightly better color picker for CraftCMS.
 * [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin.
@@ -43,7 +46,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Integrations
 
-* [AppleNews](https://github.com/pixelandtonic/AppleNews) - Publish content with Apple News Format.
+* [Disqus](https://github.com/nystudio107/disqus) - A [Disqus](https://disqus.com/) commenting integration
+* [Google Analytics](https://dukt.net/craft/analytics) - Dashboard widgets for Google Analytics.
+* [Publish to Apple News](https://github.com/pixelandtonic/AppleNews) - Publish content with Apple News Format.
+* [Salesforce Lead](https://straightupcraft.com/craft-plugins/salesforce-lead) - Turn Contact Form submissions into leads in Salesforce.
+* [Social Login](https://dukt.net/craft/social) - Let users log in using their Facebook, Google, and Twitter accounts.
+* [Twitter](https://dukt.net/craft/twitter) - Save tweets in custom fields, and call the Twitter API from your templates.
 
 ## Typography
 
