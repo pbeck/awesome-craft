@@ -25,7 +25,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Templating Reference](https://craftcms.com/docs/templating/global-variables) - Templating Reference.
 * [Plugin Development](https://craftcms.com/docs/plugins/introduction) - Plugin Development.
 * [Class Reference](https://craftcms.com/classreference) - Class Reference.
-* [Dash for macOS](https://kapeli.com/dash) - Offline access to all Craft CMS docs.
+* [Dash for macOS](https://kapeli.com/dash) - Offline access to all Craft CMS docs. 💸
 * [Craft Field Cheat Sheet](https://github.com/focuslabllc/craft-field-cheat-sheet) - Create a customized set of instantly usable Field code samples.
 
 ## SEO
@@ -59,10 +59,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [Element API](https://github.com/pixelandtonic/ElementAPI) - Create a JSON API for your elements in Craft.
 * [Disqus](https://github.com/nystudio107/disqus) - A [Disqus](https://disqus.com/) commenting integration
-* [Google Analytics](https://dukt.net/craft/analytics) - Dashboard widgets for Google Analytics.
+* [Google Analytics](https://dukt.net/craft/analytics) - Dashboard widgets for Google Analytics. 💸
 * [Publish to Apple News](https://github.com/pixelandtonic/AppleNews) - Publish content with Apple News Format.
 * [REST](https://dukt.net/craft/rest) - Consume RESTful web services from your templates and get authenticated to popular APIs.
-* [Salesforce Lead](https://straightupcraft.com/craft-plugins/salesforce-lead) - Turn Contact Form submissions into leads in Salesforce.
+* [Salesforce Lead](https://straightupcraft.com/craft-plugins/salesforce-lead) - Turn Contact Form submissions into leads in Salesforce. 💸
 * [Social Login](https://dukt.net/craft/social) - Let users log in using their Facebook, Google, and Twitter accounts.
 * [Twitter](https://dukt.net/craft/twitter) - Save tweets in custom fields, and call the Twitter API from your templates.
 
