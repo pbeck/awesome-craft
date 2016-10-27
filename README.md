@@ -35,6 +35,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Super Table](https://github.com/engram-design/SuperTable) - Tables field type.
 * [Hue](https://github.com/TopShelfCraft/Hue) - A slightly better color picker for CraftCMS.
 * [LinkIt](https://github.com/fruitstudios/LinkIt) - Multi-purpose link plugin.
+* [Reasons](https://github.com/mmikkel/Reasons-Craft) - Add conditionals to your field layouts.
 
 ## Build Tools
 
