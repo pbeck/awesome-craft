@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Build Tools](#build-tools)
 - [Integrations](#integrations)
 - [Typography](#typography)
+- [Security](#security)
 
 ## Documentation
 
@@ -69,3 +70,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Typography
 
 * [Craft Typogrify](https://github.com/jamiepittock/craft-typogrify) - A typogrify plugin for Craft.
+
+## Security
+
+* [Sherlock](https://www.putyourlightson.net/craft-sherlock) - Security scanner and monitor that keeps your site and CMS secure. 💸
