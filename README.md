@@ -19,6 +19,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Integrations](#integrations)
 - [Typography](#typography)
 - [Security](#security)
+- [Boilerplates](#boilerplates)
 
 ## Documentation
 
@@ -74,3 +75,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Security
 
 * [Sherlock](https://www.putyourlightson.net/craft-sherlock) - Security scanner and monitor that keeps your site and CMS secure. 💸
+
+## Boilerplates
+
+* [Craft Multi Environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
