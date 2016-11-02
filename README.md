@@ -79,3 +79,5 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Boilerplates
 
 * [Craft Multi Environment](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
+* [Pluginfactory.io](http://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
+
